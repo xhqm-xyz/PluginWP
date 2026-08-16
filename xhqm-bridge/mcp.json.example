@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "wordpress": {
+      "type": "http",
+      "url": "https://your-site.com/wp-json/mcp/v1/server",
+      "headers": {
+        "Authorization": "Basic <base64(用户名:应用密码)>"
+      }
+    }
+  }
+}

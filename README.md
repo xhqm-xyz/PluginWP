@@ -7,6 +7,7 @@ WordPress 插件集（xhqm.xyz 站点自用）。
 | 目录 | 说明 |
 |---|---|
 | [xhqm-live2d](xhqm-live2d/) | 全站 Live2D 看板娘：任意模型加载、模型防盗、OpenAI 兼容聊天、TTS 语音、MCP 工具服务 |
+| [xhqm-bridge](xhqm-bridge/) | WordPress MCP Bridge：将站点封装为 MCP 服务器（文章/媒体/评论/用户/分类/诊断，14 工具） |
 
 ## 自动更新
 
