@@ -1,0 +1,24 @@
+# 操作系统
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# 日志与临时
+*.log
+*.tmp
+*.bak
+
+# 模型数据（私有资产，永不入库）
+models/
+*.moc3
+*.model3.json
+*.exp3.json
+*.motion3.json
+*.physics3.json
+*.cdi3.json
+*.vtube.json
+*.user.json
