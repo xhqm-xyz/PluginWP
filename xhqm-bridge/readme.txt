@@ -84,7 +84,7 @@ Claude Desktop 仅支持 stdio 传输，请使用设置页提供的 mcp-remote �
 
 = 1.1.2 =
 
-* 新增 GitHub 自动更新器（`includes/class-bridge-updater.php`）：更新源为 [xhqm-xyz/PluginWP](https://github.com/xhqm-xyz/PluginWP)，每 12 小时检查一次，经 WordPress 原生更新通道提示与安装
+* 新增 GitHub 自动更新器（`includes/class-bridge-updater.php`）：更新源为 [xhqm-xyz/PluginWP](https://github.com/xhqm-xyz/PluginWP) ，每 12 小时检查一次，经 WordPress 原生更新通道提示与安装
 * 从 ≤1.1.1 升级到本版本需手动上传一次 zip，之后的更新全自动
 
 = 1.1.1 =
