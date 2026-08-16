@@ -55,6 +55,10 @@
 - 分发包为仓库 zipball，**不包含模型数据**（模型存放在插件目录之外，更新过程不触碰）；
 - 从 ≤1.3.2 升级到本版本需手动上传一次 zip，之后的更新全自动。
 
+## 第三方组件
+
+`assets/lib/` 捆绑了 PixiJS（MIT）、pixi-live2d-display（MIT）与 Live2D Cubism Core（专有，Live2D Software License Agreement）。各组件的版权与许可证全文见 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。
+
 ## 常见问题
 
 - **模型不出来**：F12 看控制台。404 = 模型目录/文件名不对；403 = 签名问题（正常不会发生）；Unknown error = moc3 版本问题（本插件内置 Cubism 5 运行时，Cubism 2/3 老模型不支持）；
